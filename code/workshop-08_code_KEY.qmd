@@ -385,4 +385,3 @@ ggplot(data = drought_exp_clean,
   # taking out the legend
   theme(legend.position = "none")
 ```
-
